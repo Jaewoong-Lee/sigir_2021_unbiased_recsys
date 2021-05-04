@@ -1,3 +1,8 @@
+# Main contributor
+
+Jae-woong Lee and Seongmin Park (https://github.com/psm1206)
+
+
 # sigir_2021_unbiased_recsys
 We modified the code below.
 
