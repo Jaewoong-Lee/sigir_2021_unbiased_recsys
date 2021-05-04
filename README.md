@@ -1,4 +1,4 @@
-# Main contributor
+# Main contributors
 
 Jae-woong Lee and Seongmin Park (https://github.com/psm1206)
 
