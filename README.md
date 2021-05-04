@@ -34,7 +34,7 @@ pyyaml==5.1
 Please go to the "./src" to run this code.
 (To experiment with the yahoo dataset, you need to copy train.txt and test.txt to "./data/yahoo".)
 
-# For Coat dataset
+# Running with Coat dataset
 ## MF
 python main.py -m mf --data coat -lr 0.005 -reg 1e-9 -ran 10 -hidden 128
 
@@ -45,7 +45,7 @@ python main.py -m rel-mf --data coat -lr 0.005 -reg 1e-5 -ran 10 -hidden 128
 python main.py -m mf-du --data coat -lr 0.01 -reg 1e-7 -ran 10 -hidden 128
 
 
-# For Yahoo! R3 dataset
+# Running with Yahoo! R3 dataset
 ## MF
 python main.py -m mf --data yahoo -lr 0.001 -reg 1e-7 -ran 5 -hidden 64
 
