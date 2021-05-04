@@ -11,12 +11,19 @@ Yahoo! R3: https://webscope.sandbox.yahoo.com/catalog.php?datatype=r
 
 # Dependencies
 numpy==1.16.2
+
 pandas==0.24.2
+
 scikit-learn==0.20.3
+
 tensorflow==1.15.0 (cpu)
+
 plotly==3.10.0
+
 mlflow==1.4.0
+
 pyyaml==5.1
+
 
 # Preparing
 Please go to the "./src" to run this code.
