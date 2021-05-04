@@ -27,7 +27,7 @@ pyyaml==5.1
 
 # Preparing
 Please go to the "./src" to run this code.
-(To experiment with the yahoo dataset, you need to copy train.txt and test.txt to ./data/yahoo)
+(To experiment with the yahoo dataset, you need to copy train.txt and test.txt to "./data/yahoo".)
 
 # For Coat dataset
 ## MF
