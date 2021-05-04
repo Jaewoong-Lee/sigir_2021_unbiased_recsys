@@ -1,5 +1,5 @@
 # sigir_2021_unbiased_recsys
-We modified the code below. \\
+We modified the code below.
 https://github.com/usaito/unbiased-implicit-rec-real
 
 Datasets
