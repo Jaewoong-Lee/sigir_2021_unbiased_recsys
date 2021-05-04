@@ -3,7 +3,7 @@
 Jae-woong Lee and Seongmin Park (https://github.com/psm1206)
 
 
-# sigir_2021_unbiased_recsys
+# About this code and datasets
 We modified the code below.
 
 https://github.com/usaito/unbiased-implicit-rec-real
