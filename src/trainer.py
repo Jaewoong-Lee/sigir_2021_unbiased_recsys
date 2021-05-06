@@ -1,7 +1,3 @@
-"""
-Codes for training recommenders on semi-synthetic datasets used in the semi-synthetic experiments
-in the paper "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback".
-"""
 import json
 import time
 from pathlib import Path
