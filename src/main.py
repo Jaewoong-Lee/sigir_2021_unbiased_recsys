@@ -1,8 +1,3 @@
-"""
-Codes for running the semi-synthetic experiments
-in the paper "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback".
-"""
-
 import argparse
 import sys
 import yaml
