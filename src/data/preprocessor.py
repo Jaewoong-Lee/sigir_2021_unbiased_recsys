@@ -1,7 +1,3 @@
-"""
-Codes for preprocessing real-world datasets used in the experiments
-in the paper "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback".
-"""
 import codecs
 from os import replace
 from pathlib import Path
