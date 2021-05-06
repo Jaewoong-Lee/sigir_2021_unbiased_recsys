@@ -1,7 +1,3 @@
-"""
-Recommender models used for the semi-synthetic experiments
-in the paper "Unbiased Recommender Learning from Missing-Not-At-Random Implicit Feedback".
-"""
 from __future__ import absolute_import, print_function
 
 from abc import ABCMeta, abstractmethod
