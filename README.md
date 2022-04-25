@@ -7,10 +7,10 @@ We modified the code below.
 
 https://github.com/usaito/unbiased-implicit-rec-real
 
-Datasets
-Coat: https://www.cs.cornell.edu/~schnabts/mnar/
+## Datasets
+- Coat: https://www.cs.cornell.edu/~schnabts/mnar/
 
-Yahoo! R3: https://webscope.sandbox.yahoo.com/catalog.php?datatype=r
+- Yahoo! R3: https://webscope.sandbox.yahoo.com/catalog.php?datatype=r
 
 
 # Dependencies
