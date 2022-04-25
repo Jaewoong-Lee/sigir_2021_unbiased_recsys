@@ -1,5 +1,4 @@
 # Main contributors for this code
-
 Jae-woong Lee and Seongmin Park (https://github.com/psm1206)
 
 
